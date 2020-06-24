@@ -1,0 +1,117 @@
+html,
+.container,
+.hero {
+    height: 100%;
+}
+
+/*Background*/
+
+body {
+    height: 100%;
+    overflow: hidden;
+    transform: scale(1.1);
+}
+
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: no-repeat scroll 50% 50%;
+    background-size: cover;
+    z-index: -1;
+    height: 100vh;
+    width: 100%;
+    pointer-events: none;
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    transform: scale(1.1);
+    overflow: hidden;
+}
+
+.block {
+    background: #1d1f2b;
+    color:white;
+}
+
+.terminal-block {
+    width:1100px;
+}
+
+.terminal-block input {
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid white;
+    color:white;
+    border-radius: 0 !important;
+    outline: none;
+    color:white;
+}
+
+.terminal-block .input-group-text {
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid white;
+    color:white;
+    border-radius: 0 !important;
+    outline: none;
+    color:white;
+}
+
+.terminal-block input:focus {
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid white;
+    outline: none !important;
+      color:white;
+}
+
+.terminal-form {
+    width:100%;
+}
+
+input:active, input:focus, input:hover {
+    outline:0px !important;
+    -webkit-appearance:none;
+    box-shadow: none !important;
+}
+
+.hoverbox {
+    height:40px;
+    width:50px;
+    overflow: hidden;
+}
+
+.linkpanel li {
+    font-size: 12px;
+}
+
+.linkpanel a {
+    color:black
+}
+
+.linkpanel .title {
+    width:80px;
+    float:right;
+    text-align:left;
+}
+
+.linkpanel a:hover {
+    color:black;
+}
+
+.hovery {
+    background-color: white;
+    color:black;
+    width:150px;
+    left:-50px;
+}
+
+.hidden {
+    display:none;
+}
