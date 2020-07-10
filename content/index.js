@@ -2,16 +2,20 @@ const urls = [
     "https://w.wallhaven.cc/full/x1/wallhaven-x1wroo.jpg",
     "https://w.wallhaven.cc/full/zm/wallhaven-zmm7mw.png",
     "https://w.wallhaven.cc/full/96/wallhaven-96w8e8.png"
-]
+];
+
+const liHtml = "<li><a href=\"{{Url}}\">{{Title}}</a></li>";
 
 $(function () {
-    $('.background').css("background-image", "url(" + urls[Math.floor(Math.random() * urls.length)] + ")")
+    $('.background').css("background-image", "url(" + urls[Math.floor(Math.random() * urls.length)] + ")");
     //var item = items[Math.floor(Math.random() * items.length)];
 
     $('.linkpanel').on("click", function() {
         closeLinkPanels();
         toggleLinkPanel($(this));
-    })
+    });
+
+    getShowsJson();
 
     $('.terminal-form').on("submit", function(e) {
         e.preventDefault();
@@ -74,3 +78,33 @@ const getAction = function(cmd) {
             return "";
     }
 };
+
+const getShowsJson = function() {
+    let promise = new Promise((resolve, reject) => {
+        $.getJSON("https://oden636.github.io/content/shows.json", (data) => {
+            if (data != null) {
+                resolve(data)
+            } else {
+                reject(Error("Shits fucked fam"))
+            }
+            promise.then((result) => {
+                populateShowsJson(result)
+            }, (e) => {
+                console.log(e);
+            });
+        });
+    });
+
+};
+
+const populateShowsJson = function(data) {
+    let container = $(".js-shows-list");
+    data.forEach((obj) => {
+        if (obj.stillWatching) {
+            container.append(liHtml.replace("{{Title}}", obj.title).replace("{{Url}}", obj.overviewURL));
+        }
+    });
+
+    console.log("Shows watched: " + data.length);
+};
+
