@@ -1,5 +1,45 @@
 [{
-			"title": "Princess Reconnect",
+		"title": "Peter Grill P Time",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/en-gb/peter-grill-and-the-philosophers-time"
+	},{
+		"title": "Monster Girl Doctor",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/en-gb/monster-girl-doctor"
+	},{
+		"title": "Rent a Girlfriend",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/en-gb/rent-a-girlfriend"
+	},{
+		"title": "God of High School",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/en-gb/the-god-of-high-school"
+	},{
+			"title": "Misfit dk Academy",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/en-gb/the-misfit-of-demon-king-academy"
+	},{
+		"title": "Princess Reconnect",
 		"imdb": "",
 		"episodes": 0,
 		"stillWatching": 1,
@@ -18,7 +58,7 @@
 		"title": "Kill la kill",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://kissanime.ru/Anime/Kill-La-Kill"
