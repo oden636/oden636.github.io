@@ -1,7 +1,11 @@
 const urls = [
     "https://w.wallhaven.cc/full/x1/wallhaven-x1wroo.jpg",
     "https://w.wallhaven.cc/full/zm/wallhaven-zmm7mw.png",
-    "https://w.wallhaven.cc/full/96/wallhaven-96w8e8.png"
+    "https://w.wallhaven.cc/full/96/wallhaven-96w8e8.png",
+    "https://w.wallhaven.cc/full/2e/wallhaven-2em38y.jpg",
+    "https://w.wallhaven.cc/full/ym/wallhaven-ymoo2x.jpg",
+    "https://w.wallhaven.cc/full/96/wallhaven-96w8e8.png",
+    "https://w.wallhaven.cc/full/lm/wallhaven-lmlj32.jpg"
 ];
 
 const liHtml = "<li><a href=\"{{Url}}\">{{Title}}</a></li>";
