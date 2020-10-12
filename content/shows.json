@@ -1,11 +1,27 @@
 [{
-		"title": "Death Parade",
+		"title": "Noblesse",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
-		"overviewURL": "https://twist.moe/a/death-parade/1"
+		"overviewURL": "https://www.crunchyroll.com/en-gb/noblesse"
+	},{
+		"title": "Iwakakeru",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/en-gb/iwakakeru-sport-climbing-girls-"
+	},{
+		"title": "Jujutsu Kaisen",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/en-gb/jujutsu-kaisen"
 	},{
 		"title": "Peter Grill P Time",
 		"imdb": "",
@@ -1025,10 +1041,10 @@
 		"title": "Is it wrong to pick up girls in a dungeon",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
-		"overviewURL": "http://www.ryu-anime.com/series-info/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-gaiden-sword-oratoria/"
+		"overviewURL": "https://www.crunchyroll.com/en-gb/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon"
 	},
 	{
 		"title": "Chain Chronicle",
