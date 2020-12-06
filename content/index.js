@@ -5,7 +5,10 @@ const urls = [
     "https://w.wallhaven.cc/full/2e/wallhaven-2em38y.jpg",
     "https://w.wallhaven.cc/full/ym/wallhaven-ymoo2x.jpg",
     "https://w.wallhaven.cc/full/96/wallhaven-96w8e8.png",
-    "https://w.wallhaven.cc/full/lm/wallhaven-lmlj32.jpg"
+    "https://w.wallhaven.cc/full/lm/wallhaven-lmlj32.jpg",
+    "https://w.wallhaven.cc/full/rd/wallhaven-rd3xvm.jpg",
+    "https://w.wallhaven.cc/full/ox/wallhaven-oxkjgm.jpg",
+    "https://w.wallhaven.cc/full/j5/wallhaven-j5mz95.png"
 ];
 
 const liHtml = "<li><a href=\"{{Url}}\">{{Title}}</a></li>";
@@ -62,8 +65,23 @@ const toggleLinkPanel = function(obj) {
 };
 
 const getAction = function(cmd) {
-    let key = cmd.split(' ')[0];
+    let key = cmd.split(' ')[0]; 
     let arg = cmd.split(' ')[1];
+    
+    let query = "" 
+
+    if(cmd.split(' ')[0] != "-g") 
+    {
+        query = cmd
+    } else 
+    {
+        cmd.split(' ').forEach(function(e) {
+            if(e != cmd.split(' ')[0]) {
+                query += e + " "
+            }
+        });
+    }
+
 
     switch(key) {
         case "-f":
@@ -72,14 +90,13 @@ const getAction = function(cmd) {
         case "-m":
             return "https://mail.google.com/mail/u/0/"
             break;
-        case "-g":
-            return "https://www.google.co.uk/?q=" + arg
             break;
         case "-a":
             return "https://www.amazon.co.uk/"
             break;
+        case "-g":
         default:
-            return "";
+            return "https://www.google.co.uk/search?q=" + query
     }
 };
 
