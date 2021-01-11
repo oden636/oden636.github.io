@@ -1,8 +1,16 @@
 [{
-		"title": "Noblesse",
+		"title": "So im a spider",
 		"imdb": "",
 		"episodes": 0,
 		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/en-gb/so-im-a-spider-so-what"
+	},{
+		"title": "Noblesse",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/en-gb/noblesse"
@@ -10,7 +18,7 @@
 		"title": "Iwakakeru",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/en-gb/iwakakeru-sport-climbing-girls-"
@@ -338,7 +346,7 @@
 		"title": "The Quintessential Quintuplets",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/en-gb/the-quintessential-quintuplets"
@@ -426,7 +434,7 @@
 		"title": "That Time came back a Slime",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/that-time-i-got-reincarnated-as-a-slime"
@@ -658,7 +666,7 @@
 		"title": "Laid Back Camp",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "http://www.crunchyroll.com/laid-back-camp"
@@ -1082,7 +1090,7 @@
 		"title": "Attack on Titan",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "http://www.crunchyroll.com/attack-on-titan"
