@@ -112,6 +112,10 @@ input:active, input:focus, input:hover {
     left:-50px;
 }
 
+.shows .hovery {
+    top:-150px;
+}
+
 .hidden {
     display:none;
 }
