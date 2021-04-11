@@ -1,4 +1,28 @@
 [{
+		"title": "Ive Killing Slimes",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/en-gb/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level"
+	},{
+		"title": "Tokyo Revengers",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/en-gb/tokyo-revengers"
+	},{
+		"title": "Dont Toy Nagatoro",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/en-gb/dont-toy-with-me-miss-nagatoro"
+	},{
 		"title": "Redo of Healer",
 		"imdb": "",
 		"episodes": 0,
@@ -474,7 +498,7 @@
 		"title": "Zombie Land Saga",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/zombie-land-saga"
@@ -570,10 +594,10 @@
 		"title": "How not to summon Demon Lord",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
-		"overviewURL": "http://kissanime.ru/Anime/Isekai-Maou-to-Shoukan-Shoujo-no-Dorei-Majutsu"
+		"overviewURL": "https://www.crunchyroll.com/en-gb/how-not-to-summon-a-demon-lord"
 	}, {
 		"title": "Banana Fish",
 		"imdb": "",
@@ -698,7 +722,7 @@
 		"title": "Laid Back Camp",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "http://www.crunchyroll.com/laid-back-camp"
@@ -987,7 +1011,7 @@
 		"title": "My Hero Acadamia",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "http://www.crunchyroll.com/my-hero-academia"
@@ -1189,7 +1213,7 @@
 		"title": "Miss Kobayashi's Dragon Maid",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "http://www.crunchyroll.com/miss-kobayashis-dragon-maid"
