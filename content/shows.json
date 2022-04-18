@@ -1,4 +1,20 @@
 [{
+		"title": "Tomodachi Game",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 0,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/en-gb/tomodachi-game"
+	},{
+		"title": "Spy x Family",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 0,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/en-gb/spy-x-family"
+	},{
 		"title": "Sabuuki Bisco",
 		"imdb": "",
 		"episodes": 0,
@@ -285,7 +301,7 @@
 		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
-		"overviewURL": "https://kissanime.ru/Anime/Kaguya-sama-Love-is-War-2"
+		"overviewURL": "https://www.crunchyroll.com/en-gb/kaguya-sama-love-is-war"
 	},{
 		"title": "Gleipnir",
 		"imdb": "",
