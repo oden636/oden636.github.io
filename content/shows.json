@@ -18,7 +18,7 @@
 		"title": "Spy x Family",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/en-gb/spy-x-family"
@@ -34,7 +34,7 @@
 		"title": "Worlds End Harem",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://4anime.gg/watch/worlds-end-harem-15553?ep=9667"
@@ -898,7 +898,7 @@
 		"title": "Overlord",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "http://www.crunchyroll.com/overlord"
