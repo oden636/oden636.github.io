@@ -1,8 +1,16 @@
 [{
-		"title": "Devil is a part timer",
+		"title": "Cyberpunk Edgerunners",
 		"imdb": "",
 		"episodes": 0,
 		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.netflix.com"
+	},{
+		"title": "Devil is a part timer",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/en-gb/the-devil-is-a-part-timer"
