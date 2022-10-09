@@ -1,4 +1,20 @@
 [{
+		"title": "Beast Tamer",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://beta.crunchyroll.com/series/G8DHV743V/beast-tamer"
+	},{
+		"title": "Maid is weird",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://beta.crunchyroll.com/series/GG5H5X092/the-maid-i-hired-recently-is-mysterious"
+	},{
 		"title": "Cyberpunk Edgerunners",
 		"imdb": "",
 		"episodes": 0,
@@ -49,7 +65,7 @@
 		"title": "Spy x Family",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/en-gb/spy-x-family"
@@ -105,7 +121,7 @@
 		"title": "Komi San",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.netflix.com/browse"
@@ -281,7 +297,7 @@
 		"title": "Rent a Girlfriend",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/en-gb/rent-a-girlfriend"
@@ -1186,7 +1202,7 @@
 		"title": "My Hero Acadamia",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "http://www.crunchyroll.com/my-hero-academia"
