@@ -2,7 +2,7 @@
 		"title": "Chainsaw Man",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://beta.crunchyroll.com/series/GVDHX8QNW/chainsaw-man"
@@ -49,7 +49,7 @@
 		"title": "Classroom of the Elite",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/en-gb/classroom-of-the-elite"
@@ -73,7 +73,7 @@
 		"title": "Spy x Family",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/en-gb/spy-x-family"
@@ -1646,7 +1646,7 @@
 		"title": "Bungou Stray Dogs",
 		"imdb": "tt5679720",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "S01E00",
 		"poster": "http://ia.media-imdb.com/images/M/MV5BYTlmZTljYzYtYzQ3My00YmU1LWIzNjQtMGVhNmRkNGI4NGVmXkEyXkFqcGdeQXVyNTc3MDU1MTU@._V1_SX300.jpg",
 		"overviewURL": "http://www.crunchyroll.com/bungo-stray-dogs"
