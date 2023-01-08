@@ -1,4 +1,12 @@
 [{
+		"title": "Tomochan is a girl",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/series/G0XHWM5Q4/tomo-chan-is-a-girl"
+	},{
 		"title": "Chainsaw Man",
 		"imdb": "",
 		"episodes": 0,
@@ -217,7 +225,7 @@
 		"title": "Dont Toy Nagatoro",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/en-gb/dont-toy-with-me-miss-nagatoro"
