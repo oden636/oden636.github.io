@@ -1,4 +1,20 @@
 [{
+		"title": "Fate Fake Whispers",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/series/G4PH0WJQZ/fatestrange-fake--whispers-of-dawn-"
+	},{
+		"title": "My Tiny Senpai",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/series/G79H23Z45/my-tiny-senpai"
+	},{
 		"title": "Hells Paradise",
 		"imdb": "",
 		"episodes": 0,
@@ -10,7 +26,7 @@
 		"title": "Konosuba Megamin",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/series/GJ0H7Q5V7/konosuba--an-explosion-on-this-wonderful-world"
@@ -265,10 +281,10 @@
 		"title": "Jobless Reincarnation",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
-		"overviewURL": "https://www.funimation.com/shows/mushoku-tensei-jobless-reincarnation/?qid=None"
+		"overviewURL": "https://www.crunchyroll.com/series/G24H1N3MP/mushoku-tensei-jobless-reincarnation"
 	},{
 		"title": "Cells at work: Black",
 		"imdb": "",
@@ -281,10 +297,10 @@
 		"title": "Hormiya",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
-		"overviewURL": "https://twist.moe/a/horimiya/1"
+		"overviewURL": "https://www.crunchyroll.com/series/G9VHN9P43/horimiya"
 	},{
 		"title": "So im a spider",
 		"imdb": "",
@@ -545,7 +561,7 @@
 		"title": "Vinland Saga",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/series/GEXH3WKK0/vinland-saga"
