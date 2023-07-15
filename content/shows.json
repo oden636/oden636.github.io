@@ -82,7 +82,7 @@
 		"title": "Devil is a part timer",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/en-gb/the-devil-is-a-part-timer"
@@ -329,7 +329,7 @@
 		"title": "Jujutsu Kaisen",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/en-gb/jujutsu-kaisen"
@@ -361,7 +361,7 @@
 		"title": "God of High School",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/en-gb/the-god-of-high-school"
@@ -1694,7 +1694,7 @@
 		"title": "Bungou Stray Dogs",
 		"imdb": "tt5679720",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "S01E00",
 		"poster": "http://ia.media-imdb.com/images/M/MV5BYTlmZTljYzYtYzQ3My00YmU1LWIzNjQtMGVhNmRkNGI4NGVmXkEyXkFqcGdeQXVyNTc3MDU1MTU@._V1_SX300.jpg",
 		"overviewURL": "http://www.crunchyroll.com/bungo-stray-dogs"
