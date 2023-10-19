@@ -2,7 +2,7 @@
 		"title": "zom 100",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/series/GJ0H7QGQK/zom-100-bucket-list-of-the-dead"
@@ -10,7 +10,7 @@
 		"title": "Undead girl murder farce",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/series/GMEHME7XV/undead-murder-farce"
@@ -297,7 +297,7 @@
 		"title": "Jobless Reincarnation",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/series/G24H1N3MP/mushoku-tensei-jobless-reincarnation"
@@ -313,7 +313,7 @@
 		"title": "Hormiya",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/series/G9VHN9P43/horimiya"
@@ -1710,7 +1710,7 @@
 		"title": "Bungou Stray Dogs",
 		"imdb": "tt5679720",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "S01E00",
 		"poster": "http://ia.media-imdb.com/images/M/MV5BYTlmZTljYzYtYzQ3My00YmU1LWIzNjQtMGVhNmRkNGI4NGVmXkEyXkFqcGdeQXVyNTc3MDU1MTU@._V1_SX300.jpg",
 		"overviewURL": "http://www.crunchyroll.com/bungo-stray-dogs"
