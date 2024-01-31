@@ -1,4 +1,20 @@
 [{
+		"title": "Hokkaido Gals",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/series/GJ0H7QGPK/hokkaido-gals-are-super-adorable"
+	},{
+		"title": "Solo Leveling",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 1,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/series/GDKHZEJ0K/solo-leveling"
+	},{
 		"title": "Apothecary Diaries",
 		"imdb": "",
 		"episodes": 0,
@@ -761,7 +777,7 @@
 		"title": "Goblin Slayer",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/goblin-slayer"
@@ -1537,7 +1553,7 @@
 		"title": "Blue Exorcist",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "http://www.crunchyroll.com/blue-exorcist"
