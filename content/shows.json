@@ -2,7 +2,7 @@
 		"title": "Frieren",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/series/GG5H5XQX4/frieren-beyond-journeys-end"
@@ -34,7 +34,7 @@
 		"title": "Apothecary Diaries",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 1,
+		"stillWatching": 0,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/series/G3KHEVDJ7/the-apothecary-diaries"
@@ -345,7 +345,7 @@
 		"title": "Jobless Reincarnation",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "https://www.crunchyroll.com/series/G24H1N3MP/mushoku-tensei-jobless-reincarnation"
