@@ -1,4 +1,20 @@
 [{
+		"title": "Spice and Wolf",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 0,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/series/G1XHJV08M/spice-and-wolf-merchant-meets-the-wise-wolf"
+	},{
+		"title": "windbreaker",
+		"imdb": "",
+		"episodes": 0,
+		"stillWatching": 0,
+		"lastWatched": "",
+		"poster": "",
+		"overviewURL": "https://www.crunchyroll.com/series/G3KHEVDPE/wind-breaker"
+	},{
 		"title": "Frieren",
 		"imdb": "",
 		"episodes": 0,
@@ -1322,7 +1338,7 @@
 		"title": "My Hero Acadamia",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "http://www.crunchyroll.com/my-hero-academia"
@@ -1596,7 +1612,7 @@
 		"title": "Konosuba - Gods Blessing",
 		"imdb": "",
 		"episodes": 0,
-		"stillWatching": 0,
+		"stillWatching": 1,
 		"lastWatched": "",
 		"poster": "",
 		"overviewURL": "http://www.crunchyroll.com/konosuba-gods-blessing-on-this-wonderful-world"
