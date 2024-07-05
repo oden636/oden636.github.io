@@ -1,162 +1,111 @@
-﻿<!doctype html>
+﻿<!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="content/main.css"/>
-
-    <title>Startpage</title>
+    <meta charset="UTF-8 UTF-16">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./content/main.css">
+    <script src="https://kit.fontawesome.com/50ca4bca32.js" crossorigin="anonymous"></script>
+    <script src="./content/weather.js" async></script>
+    <script src="./content/time.js" async></script>
+    <script src="./content/themes.js" async></script>
+    <title>Welcome</title>
 </head>
-<body>
-    <div class="background" style="background-image: url(https://w.wallhaven.cc/full/x1/wallhaven-x1wroo.jpg)"></div>
 
-<main role="main" class="container">
-    <div class="d-flex align-items-center bd-highlight mb-3 hero">
-        <div class="flex-row">
-            <div class="col-xs-12">
-                <div class="row">
-                    <div class="col-xs-12 my-3 p-3 rounded shadow-sm block terminal-block">
-                        <div class="media text-muted">
-                            <form class="terminal-form">
-                                <div class="input-group input-group-lg">
-                                    <div class="input-group-prepend">
-                                        <span class="input-group-text pl-0 pr-0">></span>
-                                    </div>
-                                    <input type="text" class="form-control" aria-label="Large" aria-describedby="inputGroup-sizing-sm">
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-2 d-flex justify-content-center">
-                        <div style="position:relative">
-                            <div class="rounded shadow-sm block pt-2 pb-2 pl-3 pr-3 hoverbox linkpanel" style="position: absolute">
-                                <i class="fa fa-users"></i><div class="title hidden">Social</div>
-                                <div>
-                                    <hr class="mt-2 mb-2" />
-                                    <ul class="list-unstyled mb-0">
-                                        <!--<li><a href="https://www.facebook.com">Facebook</a></li>-->
-                                        <li><a href="https://twitter.com">Twitter</a></li>
-                                        <!--<li><a href="https://www.instagram.com">Instagram</a></li>-->
-                                        <li><a href="https://www.notion.so/oden636/62c5f1cb4a6b47e780b5a95fb16439f4?v=f609ac64f0484276bab9655e9f9d18d6">Notion</a></li>
-                                        <li><a href="https://mail.google.com/mail/u/0/">Gmail</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-2 d-flex justify-content-center">
-                        <div style="position:relative">
-                            <div class="rounded shadow-sm block pt-2 pb-2 pl-3 pr-3 hoverbox linkpanel" style="position: absolute">
-                                <i class="fa fa-book"></i><div class="title hidden">Read</div>
-                                <div>
-                                    <hr class="mt-2 mb-2" />
-                                    <ul class="list-unstyled mb-0">
-                                        <li><a href="https://www.bbc.co.uk/">BBC</a></li>
-                                        <li><a href="http://imgur.com/">Imgur</a></li>
-                                        <li><a href="http://www.kotaku.co.uk/">Kotaku</a></li>
-                                        <li><a href="http://www.lifehacker.co.uk/">Lifehacker</a></li>
-                                        <li><a href="http://www.gizmodo.co.uk/">Gizmodo</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-2 d-flex justify-content-center">
-                        <div style="position:relative">
-                            <div class="rounded shadow-sm block pt-2 pb-2 pl-3 pr-3 hoverbox linkpanel" style="position: absolute">
-                                <i class="fa fa-film"></i><div class="title hidden">Media</div>
-                                <div>
-                                    <hr class="mt-2 mb-2" />
-                                    <ul class="list-unstyled mb-0">
-                                        <li><a href="https://www.youtube.com/">YouTube</a></li>
-                                        <li><a href="https://www.netflix.com/browse">Netflix</a></li>
-                                        <li><a href="https://www.amazon.co.uk/Prime-Instant-Video/b?node=3280626031">Amazon Video</a></li>
-                                        <li><a href="https://www.disneyplus.com/en-gb/brand/star-wars">Disney+</a></li>
-                                        <li><a href="https://tv.apple.com/gb">Apple TV</a></li>
-                                        <li><a href="https://www.twitch.tv/">Twitch</a></li>
-                                        <li><a href="http://www.crunchyroll.com/">Crunchyroll</a></li>
-                                        <li><a href="http://http://kissanime.ru/">KissAnime</a></li>
-                                        <li><a href="http://boards.4chan.org/w/">/w</a></li>
-                                        <li><a href="https://alpha.wallhaven.cc/">Wallhaven</a></li>
-                                        <li><a href="https://danbooru.donmai.us/">Danbooru</a></li>
-                                        <li><a href="https://pixiv.net/en">Pixiv.net</a></li>
-                                        <li><a href="https://www.reddit.com/r/dankmemes/">R/DankMemes</a></li>
-                                        <li><a href="https://www.reddit.com/r/killteam/">R/Killteam</a></li>
-                                        <li><a href="https://www.reddit.com/r/pcmasterrace/">R/PCMasterRace</a></li>
-                                        <li><a href="https://www.reddit.com/r/hentaimemes/">R/HMemes</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-2 d-flex justify-content-center">
-                        <div style="position:relative">
-                            <div class="rounded shadow-sm block pt-2 pb-2 pl-3 pr-3 hoverbox linkpanel" style="position: absolute">
-                                <i class="fa fa-shopping-cart"></i><div class="title hidden">Shopping</div>
-                                <div>
-                                    <hr class="mt-2 mb-2" />
-                                    <ul class="list-unstyled mb-0">
-                                        <li><a href="https://www.amazon.co.uk/">Amazon</a></li>
-                                        <li><a href="http://www.ebay.co.uk/">Ebay</a></li>
-                                        <li><a href="http://store.steampowered.com/">Steam</a></li>
-                                        <li><a href="https://www.kickstarter.com/">Kickstarter</a></li>
-                                        <li><a href="https://elementgames.co.uk/">ElementGames</a></li>
-                                        <li><a href="https://www.humblebundle.com/">HumbleBundle</a></li>
-                                        <li><a href="https://www.goblingaming.co.uk/">Goblin Gaming</a></li>
-                                        <li><a href="https://www.hotukdeals.com/">HUKD</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-2 d-flex justify-content-center">
-                        <div style="position:relative">
-                            <div class="rounded shadow-sm block pt-2 pb-2 pl-3 pr-3 hoverbox linkpanel" style="position: absolute">
-                                <i class="fa fa-random"></i><div class="title hidden">Other</div>
-                                <div>
-                                    <hr class="mt-2 mb-2" />
-                                    <ul class="list-unstyled mb-0">
-                                        <li><a href="https://openings.moe/">Openings.moe</a></li>
-                                        <li><a href="https://listen.moe/">Listen</a></li>
-                                        <li><a href="http://www.trello.com/">Trello</a></li>
-                                        <li><a href="https://www.halifax-online.co.uk/personal/logon/login.jsp?target=%2fpersonal%2fa%2faccount_overview_personal%2f">Halifax</a></li>
-                                        <li><a href="https://retail.santander.co.uk/LOGSUK_NS_ENS/BtoChannelDriver.ssobto?dse_operationName=LOGON&amp;dse_processorState=initial&amp;redirect=S">Santander</a></li>
-                                        <li><a href="https://github.com/oden636">GitHub</a></li>
-                                        <li><a href="https://www.coinbase.com/dashboard6">Coinbase</a></li>
-                                        <li><a href="https://live.trading212.com/">Trading 212</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-2 d-flex justify-content-center">
-                        <div style="position:relative" class="shows">
-                            <div class="rounded shadow-sm block pt-2 pb-2 pl-3 pr-3 hoverbox linkpanel" style="position: absolute">
-                                <i class="fa fa-eye"></i><div class="title hidden">Shows</div>
-                                <div>
-                                    <hr class="mt-2 mb-2" />
-                                    <ul class="list-unstyled mb-0 js-shows-list">
-                                        <li></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+<body>
+
+    <img class="image grow" alt="main image" src="/img/gold.jpg">
+
+
+    <div class="content-container">
+
+        <div class="header-container">
+            <h1>Welcome</h1>
+            <div class="status-strip">
+                <span class="date"></span>
+                <span> | </span>
+                <span class="time"></span>
+                <span> | </span>
+                <span class="weather"></span>
+            </div>
+        </div>
+
+        <div class="card-container">
+            <div class="container">
+                <h2 class="title">
+                    <i class="fa-solid fa-envelope"></i>
+                </h2>
+                <div class="links"></div>
+                <a href="https://twitter.com">Twitter</a>
+                <a href="https://www.notion.so/oden636/62c5f1cb4a6b47e780b5a95fb16439f4?v=f609ac64f0484276bab9655e9f9d18d6">Notion</a>
+                <a href="https://mail.google.com/mail/u/0/">Gmail</a>
+            </div>
+
+            <div class="container">
+                <h2 class="title">
+                    <i class="fa-solid fa-terminal"></i>
+                </h2>
+                <div class="links"></div>
+                <a href="https://www.bbc.co.uk/">BBC</a>
+                <a href="http://imgur.com/">Imgur</a>
+                <a href="http://www.kotaku.co.uk/">Kotaku</a>
+                <a href="http://www.lifehacker.co.uk/">Lifehacker</a>
+                <a href="http://www.gizmodo.co.uk/">Gizmodo</a>
+            </div>
+            <div class="container">
+                <h2 class="title">
+                    <i class="fa-solid fa-book"></i>Read
+                </h2>
+                <div class="links"></div>
+                <a href="https://www.youtube.com/">YouTube</a>
+                <a href="https://www.netflix.com/browse">Netflix</a>
+                <a href="https://www.amazon.co.uk/Prime-Instant-Video/b?node=3280626031">Amazon Video</a>
+                <a href="https://www.disneyplus.com/en-gb/brand/star-wars">Disney+</a>
+                <a href="https://tv.apple.com/gb">Apple TV</a>
+                <a href="https://www.twitch.tv/">Twitch</a>
+                <a href="http://www.crunchyroll.com/">Crunchyroll</a>
+                <a href="http://http://kissanime.ru/">KissAnime</a>
+                <a href="http://boards.4chan.org/w/">/w</a>
+                <a href="https://alpha.wallhaven.cc/">Wallhaven</a>
+                <a href="https://danbooru.donmai.us/">Danbooru</a>
+                <a href="https://pixiv.net/en">Pixiv.net</a>
+                <a href="https://www.reddit.com/r/dankmemes/">R/DankMemes</a>
+                <a href="https://www.reddit.com/r/killteam/">R/Killteam</a>
+                <a href="https://www.reddit.com/r/pcmasterrace/">R/PCMasterRace</a>
+                <a href="https://www.reddit.com/r/hentaimemes/">R/HMemes</a>
+            </div>
+            <div class="container">
+                <h2 class="title">
+                    <i class="fa-brands fa-linux"></i>Linux
+                </h2>
+                <div class="links"></div>
+                <a href="https://www.amazon.co.uk/">Amazon</a>
+                <a href="http://www.ebay.co.uk/">Ebay</a>
+                <a href="http://store.steampowered.com/">Steam</a>
+                <a href="https://www.kickstarter.com/">Kickstarter</a>
+                <a href="https://elementgames.co.uk/">ElementGames</a>
+                <a href="https://www.humblebundle.com/">HumbleBundle</a>
+                <a href="https://www.goblingaming.co.uk/">Goblin Gaming</a>
+                <a href="https://www.hotukdeals.com/">HUKD</a>
+            </div>
+            <div class="container">
+                <h2 class="title">
+                    <i class="fa-solid fa-mask"></i>Hack
+                </h2>
+                <div class="links"></div>
+                <a href="https://openings.moe/">Openings.moe</a>
+                <a href="https://listen.moe/">Listen</a>
+                <a href="http://www.trello.com/">Trello</a>
+                <a href="https://www.halifax-online.co.uk/personal/logon/login.jsp?target=%2fpersonal%2fa%2faccount_overview_personal%2f">Halifax</a>
+                <a href="https://retail.santander.co.uk/LOGSUK_NS_ENS/BtoChannelDriver.ssobto?dse_operationName=LOGON&amp;dse_processorState=initial&amp;redirect=S">Santander</a>
+                <a href="https://github.com/oden636">GitHub</a>
+                <a href="https://www.coinbase.com/dashboard6">Coinbase</a>
+                <a href="https://live.trading212.com/">Trading 212</a>
+
             </div>
         </div>
     </div>
-</main>
-
-
-    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
-    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-    <script src="content/index.js"></script>
 </body>
+
 </html>
