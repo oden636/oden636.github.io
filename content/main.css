@@ -101,7 +101,7 @@ span {
     height: 30vh;
     display: flex;
     flex-flow: row wrap;
-    gap: 20px;
+    gap: 10px;
 }
 
 .container {
@@ -114,10 +114,8 @@ span {
     text-align: center;
 }
 
-
-
 .title {
-    margin-top: 2vh;
+    margin-top: 0.5vh;
     font-family: 'Space Mono', monospace;
     color: var(--title-color);
     font-size: 1.3rem;
@@ -128,11 +126,10 @@ a {
     text-decoration: none;
     font-size: 1.2rem;
     color: var(--link-color);
-    margin-top: 2vh;
+    margin-top: 0.5vh;
 }
 
 a:hover {
-    
     color: var(--hover-color);
 }
 
@@ -140,10 +137,11 @@ img {
     grid-column: 1;
     border-radius: 8px;
     grid-row: 2;
-    justify-self: end;
-    margin-right: 15vh;
+    justify-self: center;
     content: var(--image);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25), 0 5px 5px rgba(0, 0, 0, 0.12);
+    max-width: 550px;
+    height:100%;
 }
 
 .grow { 
