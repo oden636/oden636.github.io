@@ -8,14 +8,17 @@ const getShowsJson = async () => {
 };
 
 const populateShowsJson = async (data) => {
-    let container = document.getElementsByClassName("js-shows-list")[0];
+    const container = document.getElementsByClassName("js-shows-list")[0];
+
+    const tags = [];
+
     data.forEach((obj) => {
         if (obj.stillWatching) {
-            container.append(ahtml.replace("{{Title}}", obj.title).replace("{{Url}}", obj.overviewURL));
+            tags.push(ahtml.replace("{{Title}}", obj.title).replace("{{Url}}", obj.overviewURL));
         }
     });
 
-    console.log("Shows watched: " + data.length);
+    container.innerHTML = tags.join('')
 };
 
 getShowsJson()
